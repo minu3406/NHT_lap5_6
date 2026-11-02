@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NHT_lap4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dce855747ef9f51b750a33607f16a8ee23c9b2eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NHT_lap4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NHT_lap4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

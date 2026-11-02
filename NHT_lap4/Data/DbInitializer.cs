@@ -10,7 +10,7 @@ namespace NHT_lap4.Data
             using (var context = new SchoolContext(serviceProvider
                 .GetRequiredService<DbContextOptions<SchoolContext>>()))
             {
-                context.Database.EnsureCreated();
+                context.Database.EnsureCreated();   
                 if (context.Majors.Any())
                 {
                     return;

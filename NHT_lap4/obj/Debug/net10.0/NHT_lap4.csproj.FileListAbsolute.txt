@@ -2220,3 +2220,4 @@ D:\btap_new\NHT_lap4\NHT_lap4\obj\Debug\net10.0\compressed\x2auqkfbb9-{0}-v7ato6
 D:\btap_new\NHT_lap4\NHT_lap4\obj\Debug\net10.0\compressed\bsh6xfw55m-{0}-hohk1s2ml5-hohk1s2ml5.gz
 D:\btap_new\NHT_lap4\NHT_lap4\obj\Debug\net10.0\compressed\p9lozu3cz5-{0}-jo62mk3w6z-jo62mk3w6z.gz
 D:\btap_new\NHT_lap4\NHT_lap4\obj\Debug\net10.0\compressed\8wxrmbourm-{0}-d3505e3jkm-d3505e3jkm.gz
+D:\btap_new\NHT_lap4\NHT_lap4\obj\Debug\net10.0\NHT_lap4.sourcelink.json
